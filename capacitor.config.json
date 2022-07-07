@@ -1,0 +1,6 @@
+{
+  "appId": "my.mobile.unique.id.com",
+  "appName": "mobile-app",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
